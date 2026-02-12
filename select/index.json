@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "君はできない子",
+  "base_artist": "きくお",
+  "createdAt": "2026-02-12T09:47:50.075670Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君はできない子",
+      "artist": "Kikuo",
+      "has_synced": true,
+      "path": "select/01_君はできない子_Kikuo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君はできない子",
+      "artist": "きくお",
+      "has_synced": true,
+      "path": "select/02_君はできない子_きくお.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "君はできない子 - Kimi Wa Dekinai Ko",
+      "artist": "Kikuo",
+      "has_synced": true,
+      "path": "select/03_君はできない子_-_Kimi_Wa_Dekinai_Ko_Kikuo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "君はできない子",
+      "artist": "きくお feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/04_君はできない子_きくお_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "君はできない子 - Kimi wa dekinai ko (feat. Hatsune Miku)",
+      "artist": "KIKUO",
+      "has_synced": true,
+      "path": "select/05_君はできない子_-_Kimi_wa_dekinai_ko_(feat._Hatsune_Miku)_KIKUO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "君はできない子 (feat. Hatsune Miku)",
+      "artist": "KIKUO",
+      "has_synced": true,
+      "path": "select/06_君はできない子_(feat._Hatsune_Miku)_KIKUO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "君はできない子",
+      "artist": "Kikuo",
+      "has_synced": true,
+      "path": "select/07_君はできない子_Kikuo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "君はできない子",
+      "artist": "Kikuo Sound Works",
+      "has_synced": true,
+      "path": "select/08_君はできない子_Kikuo_Sound_Works.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "君はできない子",
+      "artist": "Kikuo feat. Hatsune Miku",
+      "has_synced": true,
+      "path": "select/09_君はできない子_Kikuo_feat._Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "君はできない子",
+      "artist": "くろくも",
+      "has_synced": true,
+      "path": "select/10_君はできない子_くろくも.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "君はできない子",
+      "artist": "Kikuo (きくお)",
+      "has_synced": true,
+      "path": "select/11_君はできない子_Kikuo_(きくお).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "君はできない子 - Kimi Wa Dekinai Ko",
+      "artist": "Video • Kikuo",
+      "has_synced": true,
+      "path": "select/12_君はできない子_-_Kimi_Wa_Dekinai_Ko_Video_•_Kikuo.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "君はできない子",
+      "artist": "きくお",
+      "has_synced": true,
+      "path": "select/13_君はできない子_きくお.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "君はできない子 - Kimi Wa Dekinai Ko",
+      "artist": "Kikuo",
+      "has_synced": true,
+      "path": "select/14_君はできない子_-_Kimi_Wa_Dekinai_Ko_Kikuo.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "君はできない子 - Kimi wa dekinai ko (feat. Hatsune Miku)",
+      "artist": "KIKUO",
+      "has_synced": true,
+      "path": "select/15_君はできない子_-_Kimi_wa_dekinai_ko_(feat._Hatsune_Miku)_KIKUO.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "君はできない子",
+      "artist": "きくお/初音ミク",
+      "has_synced": true,
+      "path": "select/16_君はできない子_きくお_初音ミク.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君はできない子",
+      "artist": "きくお",
+      "has_synced": false,
+      "path": "select/pl_01_君はできない子_きくお.txt"
+    }
+  ]
+}
